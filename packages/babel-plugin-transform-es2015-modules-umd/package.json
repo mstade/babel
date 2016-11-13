@@ -1,6 +1,6 @@
 {
   "name": "@zambezi/babel-plugin-transform-es2015-modules-umd",
-  "version": "6.18.1",
+  "version": "6.18.2",
   "description": "This plugin transforms ES2015 modules to UMD",
   "repository": "https://github.com/zambezi/babel.git",
   "license": "MIT",
