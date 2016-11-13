@@ -1,8 +1,8 @@
 {
   "name": "@zambezi/babel-plugin-transform-es2015-modules-umd",
-  "version": "6.18.0",
+  "version": "6.18.1-umd-resolve-imports-release.0",
   "description": "This plugin transforms ES2015 modules to UMD",
-  "repository": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-umd",
+  "repository": "https://github.com/zambezi/babel.git",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
